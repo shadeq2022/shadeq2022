@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me:
+**`Computer Engineering`**
 
-<!--
-**shadeq2022/shadeq2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Hello, my name is Muhammad Shadeq. I’m a student at **Universitas Andalas**, currently learning and exploring the exciting world of **Artificial Intelligence (AI)** and **Mobile App Development**.  
 
-Here are some ideas to get you started:
+## 🔍 Interests
+- Artificial Intelligence & Machine Learning  
+- Edge Computing & TinyML  
+- Web Development  
+- Automation & Smart Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, PHP, Python, Dart  
+- **Tools & Platforms:** VS Code, Flutter, Edge Impulse, Git, GitHub   
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shadeq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shdq2022) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadshadeq25@gmail.com)
+
+# GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=shadeq2022&show_icons=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadeq2022&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
